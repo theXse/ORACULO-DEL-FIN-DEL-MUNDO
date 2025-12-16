@@ -1,0 +1,8 @@
+# Requirements for Oráculos - Interactive Sound Installations
+
+# Para Oráculo de Voz (Text-to-Speech)
+pyttsx3==2.90
+
+# Para Oráculo Sísmico (API requests y OSC)
+requests==2.31.0
+python-osc==1.8.3
